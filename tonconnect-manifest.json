@@ -1,7 +1,16 @@
 {
-  "url": "https://eralab.net/",
-  "name": "eralabsite",
-  "iconUrl": "https://eralab.net/telegramData/icon.jpg",
-  "termsOfUseUrl": "https://eralab.net/telegramData/terms-of-use.txt",
-  "privacyPolicyUrl": "https://eralab.net/telegramData/privacy-policy.txt"
+  "url": "@development_eralabcombot_bot",
+  "name": "ERAN Wallet",
+  "iconUrl": "https://atonce-original.github.io/ton_login_logo.png",
+  "bridgeUrl": "https://bridge.tonapi.io/bridge",
+  "termsOfUseUrl": "https://atonce-original.github.io/terms-of-use.md",
+  "privacyPolicyUrl": "https://atonce-original.github.io/privacy-policy.md",
+  "requiredPermissions": [],
+  "apps": [
+    {
+      "name": "Tonkeeper",
+      "universalLink": "https://app.tonkeeper.com/ton-connect",
+      "bridgeUrl": "https://bridge.tonapi.io/bridge"
+    }
+  ]
 }
